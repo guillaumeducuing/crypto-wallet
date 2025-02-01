@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+
+  }
+}
+@font-face {
+  font-family: 'Satoshi';
+  src: url(/fonts/Satoshi-Variable.ttf);
+}
+
+@layer base {
+  body {
+    font-family: 'Satoshi', sans-serif;
+    @apply font-medium;
+  }
+}
+@media screen(3xl) {
+
+}
+@media screen(2xl) {
+
+}
+@media screen(xl) {
+
+}
+@media screen(lg) {
+
+}
+@media screen(md) {
+
+}
+@media screen(sm) {
+
+}
+
+@media screen(xs) {
+
+}
+/* 360px */
+@media screen(2xs) {
+
+}
