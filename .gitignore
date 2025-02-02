@@ -11,6 +11,7 @@
 # nuxt.js
 /.nuxt/
 /out/
+/.output/
 
 # production
 /build

@@ -43,5 +43,8 @@
     "prettier": "^3.2.5",
     "sass": "^1.77.8",
     "typescript": "^5.4.3"
+  },
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "4.9.5"
   }
 }
